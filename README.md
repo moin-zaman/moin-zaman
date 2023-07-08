@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Tarekuzzaman Moin
 #### I am a Web Developer
-![I am a Web Developer](https://scontent.fdac24-4.fna.fbcdn.net/v/t1.6435-9/137029734_239212950943001_975599050395954957_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_eui2=AeH7_U3cmPptqm7hu9GGzwN7nhyoMTpRM0KeHKgxOlEzQuJSywrRT9hQpOoz3Z48_OZRYlq9ZgpQPcF0HiioU27Y&_nc_ohc=1CBDnyJi5MwAX8FV_mo&_nc_ht=scontent.fdac24-4.fna&oh=00_AfDEmaZcptmPgD3b4Qcnou9B7Y47iRGaUMi6ygiRHUD3Nw&oe=64D0E81A)
+![I am a Web Developer]([https://scontent.fdac24-4.fna.fbcdn.net/v/t1.6435-9/137029734_239212950943001_975599050395954957_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_eui2=AeH7_U3cmPptqm7hu9GGzwN7nhyoMTpRM0KeHKgxOlEzQuJSywrRT9hQpOoz3Z48_OZRYlq9ZgpQPcF0HiioU27Y&_nc_ohc=1CBDnyJi5MwAX8FV_mo&_nc_ht=scontent.fdac24-4.fna&oh=00_AfDEmaZcptmPgD3b4Qcnou9B7Y47iRGaUMi6ygiRHUD3Nw&oe=64D0E81A](https://scontent.fdac24-2.fna.fbcdn.net/v/t1.6435-9/135835858_238586981005598_1711047812739964629_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeEJ1dCQmi-JrzA56OwmidFvQnV7Z5Aun5VCdXtnkC6flThO7QvjnlQXq1cG13R_JQxq7Vep_KIWYPSUSN_9ek6W&_nc_ohc=o99BzquRqIkAX82KHAI&_nc_ht=scontent.fdac24-2.fna&oh=00_AfBrE7XGKJvV5qdtJeUQlU6h1Ro2qLeo1bD8OX4gsup9KQ&oe=64D110B1))
 
 Basically I am a Fron-End Web Developer but recently  focusing on Back-End developing . I will complete my Bachelors in 2023 after that I want to go to abroad to complete my MSc.
 
