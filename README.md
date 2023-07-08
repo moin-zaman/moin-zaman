@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Tarekuzzaman Moin
 #### I am a Web Developer
-![I am a Web Developer](https://scontent.fdac24-4.fna.fbcdn.net/v/t1.6435-9/137029734_239212950943001_975599050395954957_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_eui2=AeH7_U3cmPptqm7hu9GGzwN7nhyoMTpRM0KeHKgxOlEzQuJSywrRT9hQpOoz3Z48_OZRYlq9ZgpQPcF0HiioU27Y&_nc_ohc=1CBDnyJi5MwAX8FV_mo&_nc_ht=scontent.fdac24-4.fna&oh=00_AfDEmaZcptmPgD3b4Qcnou9B7Y47iRGaUMi6ygiRHUD3Nw&oe=64D0E81A)
+![I am a Web Developer]
 
 Basically I am a Fron-End Web Developer but recently  focusing on Back-End developing . I will complete my Bachelors in 2023 after that I want to go to abroad to complete my MSc.
 
