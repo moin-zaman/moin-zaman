@@ -34,7 +34,7 @@
 <!-- Add a section to connect with you with animated social media icons -->
 ## ☕ Connect with me!
 <div style="display: flex; gap: 10px; margin-top: 20px;">
-  <img src="https://fontawesome.com/icons/facebook-f?f=brands&s=solid" alt="Facebook" style="height: 40px;">
+  <img src='https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465' alt="Facebook" style="height: 40px;">
   <img src="instagram-icon-url" alt="Instagram" style="height: 40px;">
   <img src="twitter-icon-url" alt="Twitter" style="height: 40px;">
   <img src="github-icon-url" alt="GitHub" style="height: 40px;">
