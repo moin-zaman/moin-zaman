@@ -20,7 +20,7 @@ I’m a Front End Web developer passionate about creating error-free websites wi
 
 <!-- Add a section to connect with you -->
 ## ☕ Connect with me!
-[<img src='facebook-icon-url' alt='facebook' height='40'>](https://www.facebook.com/shovoalways)
+[<img src='[facebook-icon-url](https://www.facebook.com/)' alt='facebook' height='40'>](https://www.facebook.com/shovoalways)
 [<img src='instagram-icon-url' alt='instagram' height='40'>]()
 [<img src='twitter-icon-url' alt='twitter' height='40'>]()
 [<img src='github-icon-url' alt='github' height='40'>](https://github.com/moin-zaman)
