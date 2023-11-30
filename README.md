@@ -1,5 +1,4 @@
 <!-- Add a header with your name and a greeting -->
-[![Moin's GitHub stats](https://github-readme-stats.vercel.app/api?username=moin-zaman&show_icons=true&theme=radical)](https://github.com/moin-zaman/github-readme-stats)
 
 # Hi, I'm Moin Zaman 👋
 
@@ -46,3 +45,5 @@
     ✅  ► moinkhan758abzx@gmail.com
   </p>
 </div>
+
+[![Moin's GitHub stats](https://github-readme-stats.vercel.app/api?username=moin-zaman&show_icons=true&theme=radical)](https://github.com/moin-zaman/github-readme-stats)
