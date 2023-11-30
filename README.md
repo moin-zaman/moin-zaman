@@ -34,7 +34,7 @@
 <!-- Add a section to connect with you with animated social media icons -->
 ## ☕ Connect with me!
 <div style="display: flex; gap: 10px; margin-top: 20px;">
-  <img src="[facebook-icon-url](http://www.w3.org/2000/svg)" alt="Facebook" style="height: 40px;">
+  <img src="https://fontawesome.com/icons/facebook-f?f=brands&s=solid" alt="Facebook" style="height: 40px;">
   <img src="instagram-icon-url" alt="Instagram" style="height: 40px;">
   <img src="twitter-icon-url" alt="Twitter" style="height: 40px;">
   <img src="github-icon-url" alt="GitHub" style="height: 40px;">
