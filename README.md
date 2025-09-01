@@ -75,10 +75,16 @@
 
 
 
-
 <hr>
 
 <h2 align="center">📊 GitHub Stats 📊</h2>
+
+<p align="center">
+  <a href="https://github.com/moin-zaman">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moin-zaman&layout=compact&theme=react&hide=c%23,powershell" alt="Top Languages" />
+  </a>
+</p>
+
 <p align="center">
   <img width="390" src="https://streak-stats.demolab.com?user=moin-zaman&theme=react&border=61dafb&hide_border=true"/>
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=moin-zaman&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
