@@ -46,8 +46,7 @@
 <p align="center">
   👨‍💻 I’m on a journey to become a <b>Full Stack Web Developer</b>.  
   🚀 Currently diving deep into <b>React, Next.js, and MongoDB</b>, with plans to master <b>Node.js, TypeScript, Express.js, and Prisma</b> soon.  
-  📚 Alongside, I’m sharpening my skills in <b>DSA, SQL, and C++ stdbits library</b>.  
-  💡 Instead of motivational speeches, my friends’ skills drive me. Their success often makes me feel ashamed — and that shame has become my greatest motivation.  
+  📚 Alongside, I’m sharpening my skills in <b>DSA, SQL, and C++ stdbits library</b>.   
 </p>
 
 <hr>
