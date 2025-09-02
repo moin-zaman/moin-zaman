@@ -23,8 +23,7 @@
   <em>
     <b>
       <span style="font-size:22px; font-family:Georgia, serif; color:#c9d1d9;">
-        ✨ "Instead of motivational speeches, my friends' skills inspire me.<br>
-        Their success makes me feel ashamed, and that shame is my greatest motivation." ✨
+        ✨ "Every flawless commit I see is a mirror of my wasted potential — and that mirror keeps me coding."✨
       </span>
     </b>
   </em>
