@@ -83,7 +83,6 @@
 </p>
 
 <p align="center">
-  <img width="390" src="https://streak-stats.demolab.com?user=moin-zaman&theme=github-dark-blue&hide_border=true"/>
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=moin-zaman&show_icons=true&theme=github_dark&hide_border=true"/>
 </p>
 
